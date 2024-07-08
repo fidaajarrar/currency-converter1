@@ -1,0 +1,29 @@
+/*.darkmode{
+    background:black;
+    color:white;
+}
+.whitemode{
+    background:rgb(237, 234, 234);
+color:black;
+}
+button{
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+.darkbutton{
+   background-color: black;
+   color: white;
+    
+}
+.whitebutton{
+    background-color: rgb(255, 255, 255);
+    color: rgb(6, 1, 1);
+   
+     
+ }*/
+
+ .demo{
+    background:orange;
+    color:white;
+    border: solid 1px black;
+ }
